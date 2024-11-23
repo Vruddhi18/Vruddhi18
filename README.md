@@ -1,7 +1,35 @@
-## Hi there 👋
+# Hi, I'm Vruddhi Shah.
 ## Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vruddhi18) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vruddhi) 
+
+## Skill Set:
+<table><tr><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/Vruddhi18">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=py,r,django,c,java,&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+
+### AI/ML Tools:
+<a href="https://github.com/Vruddhi18">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,npm,matlab,sklearn&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/Vruddhi18">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
  ## Github Stats:
 <p align="center">
@@ -18,7 +46,19 @@
   </a> 
 </p>
 
+ <p align="center">
+   <a href="https://github.com/tayyabadev"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vruddhi18&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
+<br>
+
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vruddhi18" alt="Vruddhi18" /></a> </p>
+  
+</div>
 
 
 <!--
