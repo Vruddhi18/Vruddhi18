@@ -1,4 +1,9 @@
-# Hi, I'm Vruddhi Shah.
+# Hi there!
+I’m Vruddhi Shah — an aspiring Data Scientist and AI/ML Engineer.
+
+🔭 Currently working on projects to deepen my understanding of data science and machine learning.
+🌱 Passionate about learning new technologies, uncovering insights from data, and building smarter models.
+💬 Always open to connecting, collaborating, and discussing AI/ML, data science, or coding challenges!
 ## Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vruddhi18) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vruddhi) 
