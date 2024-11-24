@@ -51,7 +51,7 @@ I’m Vruddhi Shah — an aspiring Data Scientist and AI/ML Engineer.<br>
 </p>
 
  <p align="center">
-   <a href="https://github.com/tayyabadev"> 
+   <a href="https://github.com/Vruddhi18"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vruddhi18&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
  </p>
