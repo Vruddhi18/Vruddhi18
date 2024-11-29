@@ -50,11 +50,8 @@ I’m Vruddhi Shah — an aspiring Data Scientist and AI/ML Engineer.<br>
   </a> 
 </p>
 
- <p align="center">
-   <a href="https://github.com/Vruddhi18"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vruddhi18&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
+  ## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vruddhi18&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 <br>
 
